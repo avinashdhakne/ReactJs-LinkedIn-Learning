@@ -1,0 +1,20 @@
+
+Tutorial 2: Add customized page to application
+    - Create an Pages folder
+    - Create a jsx file names HomePage.jsx
+    - Add script into it
+    - import HomePage to the App.jsx script
+
+Tutorial 1: Create a react application: 
+
+    1. $npm create vite@5.5.2
+        √ Project name: ... front-end
+        √ Select a framework: » React
+        √ Select a variant: » JavaScript
+    2. $cd front-end
+    3. $npm install 
+    4. $npm run dev
+
+ 
+
+
